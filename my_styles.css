@@ -1,0 +1,127 @@
+a {
+	color:#2973C0;
+	
+	
+	
+}
+div{
+	color:rgba(1,26,56,0.3)
+	
+	
+}
+
+#tuz{
+	color:green;
+	
+}
+
+#test_ssilka{
+	font-size:20px;
+	color:#B34EE9;
+	
+	
+}
+
+.jiv{
+	color:#FF324D;
+	
+}
+
+.chelovek{
+	color:#3AE2CE;
+	
+}
+
+.lion{
+	color:#FF324D;
+	
+}
+
+.monkey{
+	color:#000000;
+	
+}
+
+.fish{
+	color:#FF23D1
+	
+	
+}
+
+.message{
+	color:#cc0000;
+	font-size:15px;
+	background-color:#E4E4E4;
+	border:1px solid #323232;
+	margin-bottom:10px;
+	margin-left:20px;
+	margin-top:15px;
+	padding:20px;
+}
+
+.success{
+	background-color:#19a15f;
+	color:#ffffff;
+}
+
+
+.fail{
+	background-color:#000000;
+	color:#FFE44B;
+	
+}
+
+.message:hover{
+	padding-left:15px;
+}
+
+#tuz:hover{
+	border:1px solid #323232
+}
+
+.new{
+	transition:3s transform;
+	transform:rotate(10deg)scale(1.5);
+	font-size:40px;
+	background-color:#000000;
+	color:#FFDA05;
+	padding:50px;
+	margin:15px;
+	border:1px solid #FFE44B;
+	border-radius:30px;
+	opacity:0.6;
+	box-shadow:13px 13px 7px #000000;
+	width:40%;
+	height:30px
+	padding-right:30px;
+	display:block;
+	text-align:center;
+	font-weight:900;
+	
+}
+
+body{
+	background-image:url(images/nature13.jpg)
+}
+
+
+
+.new:hover{
+	transform:rotate(360deg);
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
